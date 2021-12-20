@@ -1,0 +1,27 @@
+{
+  "name": "basicetheresjs",
+  "version": "1.0.0",
+  "description": "Basic Ethers Boilerplate of a basic Ethers system",
+  "main": "basicEthers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedamian/BasicEthersJS.git"
+  },
+  "keywords": [
+    "basic",
+    "ethers",
+    "ethersjs"
+  ],
+  "author": "Damian Montero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedamian/BasicEthersJS/issues"
+  },
+  "homepage": "https://github.com/thedamian/BasicEthersJS#readme",
+  "dependencies": {
+    "ethers": "^5.5.2"
+  }
+}
